@@ -16,7 +16,6 @@ idna==2.10
 importlib-metadata==2.0.0
 itsdangerous==1.1.0
 Jinja2==2.11.2
-joblib @ file:///tmp/build/80754af9/joblib_1601912903842/work
 jsonify==0.5
 Keras-Preprocessing==1.1.2
 Markdown==3.3.2
